@@ -1,4 +1,4 @@
-# digital_level
+# digital_spirit_level
 A digital spirit level based on the Arduino Uno Rev3 development board.
 
 Once the LCD indication of the spirit level that has been previously placed on the reference plane is x_axis:0 and y_axis:0 the digital spirit level is ready for use.
